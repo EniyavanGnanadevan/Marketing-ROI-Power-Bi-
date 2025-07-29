@@ -1,2 +1,10 @@
 # Marketing-ROI-Power-Bi-
-![WhatsApp Image 2025-07-16 at 4 00 27 PM](https://github.com/user-attachments/assets/9a1baff1-6847-4e50-952c-5bef3a317bcd)
+![WhatsApp Image 2025-07-16 at 3 58 40 PM](https://github.com/user-attachments/assets/1b287f77-3f7a-48eb-a665-6d60bb124e5c)
+![WhatsApp Image 2025-07-16 at 3 58 57 PM](https://github.com/user-attachments/assets/c89d746b-18af-4183-a966-d3fa2e9e6f5a)
+![WhatsApp Image 2025-07-16 at 3 59 10 PM](https://github.com/user-attachments/assets/2e6e26d4-9703-4012-9862-7d699340a4fe)
+![WhatsApp Image 2025-07-16 at 3 59 25 PM](https://github.com/user-attachments/assets/c45ba873-691f-45eb-9941-01ae467e780f)
+![WhatsApp Image 2025-07-16 at 3 59 37 PM](https://github.com/user-attachments/assets/b3a1934d-902b-4c4e-9da5-800bf16dd66d)
+![WhatsApp Image 2025-07-16 at 3 59 49 PM](https://github.com/user-attachments/assets/a63f3847-1062-4034-88a0-1dbb1bbece98)
+![WhatsApp Image 2025-07-16 at 4 00 06 PM](https://github.com/user-attachments/assets/f128dd76-77c4-4547-a3d5-246f502f48d1)
+![WhatsApp Image 2025-07-16 at 4 00 17 PM](https://github.com/user-attachments/assets/1e3b3c62-4754-4b1e-af35-ca5c36f0dd98)
+![WhatsApp Image 2025-07-16 at 4 00 27 PM](https://github.com/user-attachments/assets/c13336d9-1a01-4643-8715-f8fda2a90324)
