@@ -18,6 +18,7 @@ Tools & Tech Used: Power BI | Power Query | DAX | CRM Integration | Advanced Fil
 Key KPIs: Total Leads, Opportunities, Win/Loss, Win %, Bookings, Revenue, Avg Revenue per Event/Lead
 
 🖼️ Dashboard Walkthrough
+
 1️⃣ Lead Acquisition Channels
 Tracks which campaigns, UTM terms, and UTM content drive the most leads.
 Filtered by Financial Year and Month, with visual KPIs for total leads.
@@ -169,4 +170,4 @@ If you're working on marketing analytics, sales dashboards, or want help buildin
 
 
 
-Ask ChatGPT
+
